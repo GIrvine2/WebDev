@@ -1,0 +1,17 @@
+{
+  "name": "webdev-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GIrvine2/WebDev/issues"
+  },
+  "homepage": "https://github.com/GIrvine2/WebDev#readme"
+}
